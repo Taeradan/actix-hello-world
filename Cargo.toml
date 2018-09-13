@@ -1,0 +1,7 @@
+[package]
+name = "actix-hello-world"
+version = "0.1.0"
+authors = ["Yves Dubromelle <yves.dubromelle@partnre.com>"]
+
+[dependencies]
+actix-web = "0.7"
